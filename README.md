@@ -1,3 +1,3 @@
 My first readme
-^C
 echo 'My first readme' > README.md
+README update from github.com
